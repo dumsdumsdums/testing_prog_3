@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+add comments here
+testing123456
+*/
+
 typedef struct struct_main
 {
 	int x;
